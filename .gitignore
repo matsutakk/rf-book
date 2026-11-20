@@ -1,0 +1,13 @@
+# IQ データ・録音は容量が大きく、周囲の通信が含まれるため公開しない
+data/
+*.iq
+*.cs8
+*.wav
+*.npy
+
+# 実行時に作られるファイル
+out/
+lrpt_out/
+adsb_map.png
+__pycache__/
+.ipynb_checkpoints/

@@ -1,0 +1,10 @@
+numpy>=2.0
+matplotlib>=3.8
+# 第6章 LRPT（lrpt.py）
+numba>=0.60
+pillow>=10.0
+reedsolo>=1.7
+# コラム Thread の鍵IDモード2の復号（なくても thread.py は動く）
+cryptography>=42
+# ノートブック
+jupyter
